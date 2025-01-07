@@ -3,7 +3,7 @@ Name:Bindhujaa.S
 RegisterNo:24901119
 
 
-**Experiment3: HALF_ADDER_SUBTRACTOR**
+**Experiment3: IMPLEMENTATION OF HALF_ADDER_SUBTRACTOR**
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
