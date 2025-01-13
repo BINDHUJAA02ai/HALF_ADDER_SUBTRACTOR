@@ -40,13 +40,7 @@ Figure -02 HALF Subtractor
 
 **Truthtable**
 
-Half adder
-
-![image](https://github.com/user-attachments/assets/4337c0b7-168c-4923-a47e-1e650a38ec38)
-
-Half subractor
-
-![image](https://github.com/user-attachments/assets/9d7e0e1e-5b19-413c-8cb4-3ed2d6922100)
+![2](https://github.com/user-attachments/assets/69c53e11-a9ba-4bc4-9669-3b14ff09f1af)
 
 
 **Procedure**
@@ -64,22 +58,21 @@ Half subractor
 
 **Program:**
 
+![Screenshot 2024-12-13 111854](https://github.com/user-attachments/assets/4374c2ab-76c9-4dc9-a7a0-74dbb1d8a69d)
 
-![Screenshot 2024-12-26 205458](https://github.com/user-attachments/assets/e12f80ea-c82b-4762-ae8b-617746763abd)
 
 
 
 
 **RTL Schematic**
 
-![Screenshot 2024-12-05 155440](https://github.com/user-attachments/assets/baf010f2-de7b-4218-8067-4d97768d8464)
+![3](https://github.com/user-attachments/assets/adadfeee-87f9-49e0-8d87-a0a2db260531)
 
 
 
 **Output/TIMING Waveform**
 
-![Screenshot 2024-12-27 182430](https://github.com/user-attachments/assets/04b7a57d-92cb-4d23-be88-b2eef479ec54)
-
+![1000062787](https://github.com/user-attachments/assets/95bd7a14-d5d6-40df-8cdc-8ec2f77681be)
 
 **Result:**
 
