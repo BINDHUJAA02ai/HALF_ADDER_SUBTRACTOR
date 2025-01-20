@@ -5,7 +5,6 @@ RegisterNo:24901119
 
 **Experiment3: IMPLEMENTATION OF HALF ADDER SUBTRACTOR**
 
-Implementation-of-Half-Adder-and-Half Subtractor-circuit
 
 **AIM:**
 
